@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeMix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>MyMix_6eb3ee5273ac4e68864d578a289c9588</ID>
+  <Name>MyMix</Name>
+  <Lut>LUTVibrant</Lut>
+  <Atmosphere>
+    <Longitude>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>Longitude</Name>
+    </Longitude>
+    <Latitude>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>Latitude</Name>
+    </Latitude>
+    <SunSize>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>SunSize</Name>
+    </SunSize>
+    <SunAnisotropy>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>SunAnisotropy</Name>
+    </SunAnisotropy>
+    <Rayleigh>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>Rayleigh</Name>
+    </Rayleigh>
+    <Mie>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>Mie</Name>
+    </Mie>
+    <Exposure>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>Exposure</Name>
+    </Exposure>
+    <SkyTint>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>SkyTint</Name>
+    </SkyTint>
+    <MoonTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+    </MoonTexture>
+    <MoonSize>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MoonSize</Name>
+    </MoonSize>
+    <MoonInnerCorona>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MoonInnerCorona</Name>
+    </MoonInnerCorona>
+    <MoonOuterCorona>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MoonOuterCorona</Name>
+    </MoonOuterCorona>
+    <NightHorizonColor>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>NightHorizonColor</Name>
+    </NightHorizonColor>
+    <EarlyNightZenithColor>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>EarlyNightZenithColor</Name>
+    </EarlyNightZenithColor>
+    <LateNightZenithColor>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>LateNightZenithColor</Name>
+    </LateNightZenithColor>
+    <StarsIntensity>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>StarsIntensity</Name>
+    </StarsIntensity>
+    <OuterSpaceIntensity>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>OuterSpaceIntensity</Name>
+    </OuterSpaceIntensity>
+  </Atmosphere>
+  <Structures>
+    <UpwardRoadDiffuse>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>UpwardRoadDiffuse</Name>
+    </UpwardRoadDiffuse>
+    <DownwardRoadDiffuse>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>DownwardRoadDiffuse</Name>
+    </DownwardRoadDiffuse>
+    <BuildingFloorDiffuse>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>BuildingFloorDiffuse</Name>
+    </BuildingFloorDiffuse>
+    <BuildingBaseDiffuse>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>BuildingBaseDiffuse</Name>
+    </BuildingBaseDiffuse>
+    <BuildingBaseNormal>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>BuildingBaseNormal</Name>
+    </BuildingBaseNormal>
+    <BuildingBurntDiffuse>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>BuildingBurntDiffuse</Name>
+    </BuildingBurntDiffuse>
+    <BuildingAbandonedDiffuse>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>BuildingAbandonedDiffuse</Name>
+    </BuildingAbandonedDiffuse>
+    <LightColorPalette>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>LightColorPalette</Name>
+    </LightColorPalette>
+  </Structures>
+  <Terrain>
+    <GrassDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>GrassDiffuseTexture</Name>
+    </GrassDiffuseTexture>
+    <RuinedDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>RuinedDiffuseTexture</Name>
+    </RuinedDiffuseTexture>
+    <PavementDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>PavementDiffuseTexture</Name>
+    </PavementDiffuseTexture>
+    <GravelDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>GravelDiffuseTexture</Name>
+    </GravelDiffuseTexture>
+    <CliffDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>CliffDiffuseTexture</Name>
+    </CliffDiffuseTexture>
+    <SandDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>SandDiffuseTexture</Name>
+    </SandDiffuseTexture>
+    <OilDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>OilDiffuseTexture</Name>
+    </OilDiffuseTexture>
+    <OreDiffuseTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>OreDiffuseTexture</Name>
+    </OreDiffuseTexture>
+    <CliffSandNormalTexture>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>CliffSandNormalTexture</Name>
+    </CliffSandNormalTexture>
+    <GrassPollutionColorOffset>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>GrassPollutionColorOffset</Name>
+    </GrassPollutionColorOffset>
+    <GrassFieldColorOffset>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>GrassFieldColorOffset</Name>
+    </GrassFieldColorOffset>
+    <GrassFertilityColorOffset>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>GrassFertilityColorOffset</Name>
+    </GrassFertilityColorOffset>
+    <GrassForestColorOffset>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>GrassForestColorOffset</Name>
+    </GrassForestColorOffset>
+    <GrassDetailEnabled>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <DetailName>GrassDetailEnabled</DetailName>
+    </GrassDetailEnabled>
+    <FertileDetailEnabled>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <DetailName>FertileDetailEnabled</DetailName>
+    </FertileDetailEnabled>
+    <RocksDetailEnabled>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <DetailName>RocksDetailEnabled</DetailName>
+    </RocksDetailEnabled>
+  </Terrain>
+  <Water>
+    <WaterFoam>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>WaterFoam</Name>
+    </WaterFoam>
+    <WaterNormal>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>WaterNormal</Name>
+    </WaterNormal>
+    <WaterClean>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>WaterClean</Name>
+    </WaterClean>
+    <WaterDirty>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>WaterDirty</Name>
+    </WaterDirty>
+    <WaterUnder>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>WaterUnder</Name>
+    </WaterUnder>
+  </Water>
+  <Weather>
+    <MinTemperatureDay>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MinTemperatureDay</Name>
+    </MinTemperatureDay>
+    <MaxTemperatureDay>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MaxTemperatureDay</Name>
+    </MaxTemperatureDay>
+    <MinTemperatureNight>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MinTemperatureNight</Name>
+    </MinTemperatureNight>
+    <MaxTemperatureNight>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MaxTemperatureNight</Name>
+    </MaxTemperatureNight>
+    <MinTemperatureRain>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MinTemperatureRain</Name>
+    </MinTemperatureRain>
+    <MaxTemperatureRain>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MaxTemperatureRain</Name>
+    </MaxTemperatureRain>
+    <MinTemperatureFog>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MinTemperatureFog</Name>
+    </MinTemperatureFog>
+    <MaxTemperatureFog>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>MaxTemperatureFog</Name>
+    </MaxTemperatureFog>
+    <RainProbabilityDay>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>RainProbabilityDay</Name>
+    </RainProbabilityDay>
+    <RainProbabilityNight>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>RainProbabilityNight</Name>
+    </RainProbabilityNight>
+    <FogProbabilityDay>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>FogProbabilityDay</Name>
+    </FogProbabilityDay>
+    <FogProbabilityNight>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>FogProbabilityNight</Name>
+    </FogProbabilityNight>
+    <NorthernLightsProbability>
+      <ThemeID>925340750.Temperate Coast HD</ThemeID>
+      <Name>NorthernLightsProbability</Name>
+    </NorthernLightsProbability>
+  </Weather>
+</ThemeMix>
